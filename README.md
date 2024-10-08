@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tharushi
-- 👀 I’m interested in weeb site designing
+- 👀 I’m interested in web site designing
 - 🌱 I’m currently learning software engineering
 
 
