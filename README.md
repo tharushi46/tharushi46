@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @tharushi
-- 👀 I’m interested in web site designing
-- 🌱 I’m currently learning software engineering
+## 👋 Hi, I'm Tharushi
 
+💻 Software Engineer | Frontend & Mobile Developer
 
-<!---
-tharushi46/tharushi46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚛️ I build modern web and mobile applications using React.js,
+TypeScript and React Native.
+
+🤖 Currently exploring AI-powered applications and modern
+web experiences.
+
+🛠️ Technologies I work with:
+React.js • TypeScript • React Native • Java • Firebase • REST APIs • Git
+
+🚀 I enjoy turning ideas and concepts into functional applications.
+
+🌱 Always learning. Always building.
